@@ -7,7 +7,7 @@ class Feladat_1
 	
 	 public static void main(String[] args)  
 	    { 
-	        String szoveg = "Jo napot kivanok Tanar Ur! J egeszseget!"; 
+	        String szoveg = "Jo napot kivanok István! Jó egeszseget!"; 
 	          
 	        System.out.println(kisMaganhangzoEltavolitas(szoveg)); 
 	    } 

@@ -17,7 +17,8 @@ public class RFTProject01 {
     public static void main(String[] args) {
         int a;
         int b;
-        int c;
+        int c; 
+        int d;
     }
     
 }
